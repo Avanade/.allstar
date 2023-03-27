@@ -1,3 +1,6 @@
 optConfig:
   optOutStrategy: true
+  disableRepoOverride: true
+  pushAllowed: true
+  adminAllowed: false
 action: issue
